@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dreadful warning for drunkards, or The execution and confession of Fabian Price, a souldier, who was executed at Tyburn, on Wednesday the tenth of the instant July; for murdering another souldier in the parish of Chiswick, in his drink. As also of James Smith, who was executed on Thursday the eleventh, at Hounslow Heath, for running away from his Colours. With the manner of their behavior in prison, and at the places of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02778</idno>
+            <idno type="STC">Wing D2154C</idno>
+            <idno type="STC">ESTC R174746</idno>
+            <idno type="EEBO-CITATION">51784501</idno>
+            <idno type="OCLC">ocm 51784501</idno>
+            <idno type="VID">174913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174913)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2705:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dreadful warning for drunkards, or The execution and confession of Fabian Price, a souldier, who was executed at Tyburn, on Wednesday the tenth of the instant July; for murdering another souldier in the parish of Chiswick, in his drink. As also of James Smith, who was executed on Thursday the eleventh, at Hounslow Heath, for running away from his Colours. With the manner of their behavior in prison, and at the places of execution.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Capital punishment --  England --  Cases --  Early works to 1800.</term>
+               <term>Criminal law --  England --  17th century --  Cases --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Desertion, Military --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174913:1"/>
+            <pb facs="tcp:174913:1" rendition="simple:additions"/>
+            <p>A DREADFUL WARNIN<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> FOR Drunkards, OR THE EXECUTION AND CONFESSION OF <hi>Fabian Price,</hi> a SOULDIER, who wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Executed at <hi>Tyburn,</hi> on Wedneſday the Tenth of th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> inſtant <hi>July;</hi> for Murdering another Souldier in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pariſh of <hi>Chiſwick,</hi> in his Drink.</p>
+            <p>As alſo of <hi>James Smith,</hi> who was Executed on Thurſda<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Eleventh, at <hi>Hounſlow-Heath,</hi> for Running away from his Colours.</p>
+            <p>With the manner of their Behaviour in Priſon, and a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the places of Execution.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>D. M.</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:174913:2"/>
+            <head>A Dreadful Warning EOR DRUNKARDS.</head>
+            <p>AT the late Seſſions holden for the City of <hi>London</hi> and County of <hi>Middleſex,</hi> there were Five Per<g ref="char:EOLhyphen"/>ſons received Sentence of Death, three Men and two Women. Of the Men one was for Murther; another for a Rape, or beaſtly abuſe offer'd to a Child un<g ref="char:EOLhyphen"/>der ten years of Age; and the third being a Soldier, for running away from his Colours. The two Women were condemned for ſeveral Robberies, which they had long practiſed; but by the Mercy of our ever Gracious Sove<g ref="char:EOLhyphen"/>raign, three of the five obtained the favour of a Reprieve.</p>
+            <p>The moſt remarkable or notorious of thoſe that ſuffer'd, was <hi>Fabian Price,</hi> a Souldier, and one who for a conſiderable time had been of that imployment, having been in the late Ex<g ref="char:EOLhyphen"/>pedition againſt the Rebels in <hi>Virginia;</hi> where, as ſome ſay, he in Drunken Quarrel<g ref="char:EOLhyphen"/>ſome
+<pb n="3" facs="tcp:174913:2"/> Humours committed ſome Crimes that were like to have render'd him obnoxious to Capital Puniſhment from the hands of Juſtice. But whether that be true or not, 'tis certain he himſelf could not deny but he now ſuffered juſtly, for taking away the Life of another, who endeavoured to aſſiſt and help him, as far as he was capable. That lying in a field, in the way to <hi>Branford,</hi> he was civilly, awake<g ref="char:EOLhyphen"/>ned by theſe three Soldiers, who being wholly ſtrangers, had no other inducement, but as he was their Fellow-Souldier, to take him along with them. That he ſwore bitterly at them, and when they firſt came up with him, his Muſquet being cockt, they asked him whe<g ref="char:EOLhyphen"/>ther it were Charg'd; he replyed with an Oath, <hi>Yes, and that with Bullet as well as Pow<g ref="char:EOLhyphen"/>der:</hi> and that after all this he cockt again privately, and on a ſudden diſcharged it upon them, ſhooting one of them into the Belly; whereof, without ever ſpeaking a word, he inſtantly died. All theſe Circumſtances, I ſay, were evidently proved by three Witneſ<g ref="char:EOLhyphen"/>ſes at his Trial; and all that he had to plead for himſelf was, that he was in Drink when he he did it.</p>
+            <p>'Tis true, the operation of Drink does fre<g ref="char:EOLhyphen"/>quently cauſe people to do what they never thought on when ſober; but if in that Con<g ref="char:EOLhyphen"/>dition they commit any Crime, their Drunk<g ref="char:EOLhyphen"/>ennneſs is ſo far from excuſing them, that 'tis in all caſes an high aggravation; for a Drun<g ref="char:EOLhyphen"/>kard
+<pb n="4" facs="tcp:174913:3"/> is <hi>voluntarius Demon,</hi> a voluntary De<g ref="char:EOLhyphen"/>vil; a Beaſt and a Mad man of his own making; and can it be an Apology for a Maus villany, that he firſt put out the light of his under<g ref="char:EOLhyphen"/>ſtanding, that he might commit it reſolutely; ſhall one Sin patronize anot<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or ſhall the defacing God Image in our ſelves by Drun<g ref="char:EOLhyphen"/>kenneſs, juſtifying us for deſtroying it in others by Murder; Alaſs! No, this poor wretch found it otherwiſe, and juſtly ſuffered when he was ſober, for the Blood he had ſhed when he was drunk.</p>
+            <p>The other Souldier who was Executed the day following at <hi>Hounſlow,</hi> for runing away from his Colours being Condemned upon the Statute, had very little to ſay for himſelf, but we hope it will be a warning to all others for committing the like offences.</p>
+            <p>Their Behaviour in <hi>Newgate</hi> was very peni<g ref="char:EOLhyphen"/>tent, eſpecially the Souldier for the Murther, who expreſt his ſorrow for his Sins, with abun<g ref="char:EOLhyphen"/>dance of Tears, and all other ſigns of a hear<g ref="char:EOLhyphen"/>ty and ſincere Contrition. The Sunday be<g ref="char:EOLhyphen"/>fore they ſuffered, two Sermons were preacht to them, upon 2 <hi>Cor. Ca.</hi> 4. <hi>v.</hi> 2 <hi>If our Goſ<g ref="char:EOLhyphen"/>pel be hid, it's hid to them that are loſt;</hi> 
+               <q>From whence the Miniſter took pains to ſhew them; the danger thoſe perſons were in to whom the ſaving Myſteries of the Goſpel were hid or unknown; who were Strangers to the Covenant of Grace, and had no Inte<g ref="char:EOLhyphen"/>reſt
+<pb n="5" facs="tcp:174913:3"/> in the Lord Jeſus, That ſuch Souls were in a loſt undone and deſperate ſtate, the horror<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whereof he aggravated in ſeveral circumſtances; and then came to give them directions, how to receive and ſecure their Souls from ſuch peril and deſtruction, a de<g ref="char:EOLhyphen"/>ſtruction, (as he well obſerved) not of its na<g ref="char:EOLhyphen"/>tural Exiſtence, but of its Moral Excellence, when 'tis depraved, degenerated, baniſht from God, defiled with Sin: and given up to <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e by Devils eternally tormented; in handling this part, he firſt caution'd them from Seducers, that would be apt to offer them Heaven and Happineſs upon other terms than ever God intended, and ready to abuſe them with pre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ended Abſolutions and pardons, which in the day of the Lord would be of no value; in the next place he preſt them earneſtly to conſider the great<g ref="char:EOLhyphen"/>neſs of the loſs, when their Souls were loſt, to conſider what it was for ever to be ſhut out of the Joys of Heaven, and endure an Eternity of Torments; that they now had but a few moments, left them, for not only their yeare and days, but hours were numbred, and upon theſe Moments, their E<g ref="char:EOLhyphen"/>verlaſting Bliſs or wo depended, he therefore did beſeech them ſeriouſly to reflect upon their Condition, to be throughly ſenſible of bewail and abhor their natural ſtate of en<g ref="char:EOLhyphen"/>mity
+<pb n="6" facs="tcp:174913:4"/> againſt God and Goodneſs, to Repent ſpeedily and heartily for all their multiplied and repeated Tranſgreſſions, to ſee the loathſome deformity of Sin in it ſelf, and the neceſſity of a Saviour, without whom they muſt infallably periſh to all Eternity; to fly to the Lord Chriſt for help and for Salvation, and to accept him upon his own terms, admitting him for their King to rule them, as well as their Jeſus to ſave them, for they muſt be ſanctified, or elſe they would never be juſtified; to this purpoſe he deſired them to remove all lets and hindran<g ref="char:EOLhyphen"/>ces, and ſeriouſly ſet to the work, to caſt off all thoughts of the World, which they were ſo ſoon to part with, and fix them on Eter<g ref="char:EOLhyphen"/>nity, whither they were haſtning, to im<g ref="char:EOLhyphen"/>prove every minute of that ſmall time they had left, in making their peace with God, and not deceive themſelves, by miſtaking ſor<g ref="char:EOLhyphen"/>row for the puniſhment, to be Repeutance for ſin, or every check of Conſcience, for the pangs of the New Birth; Alaſa! there muſt be a total and thorough change of the whole man; an abhorrency of all ſin plant<g ref="char:EOLhyphen"/>ed in their wills, and a love to God above all objects whatſoever in their Souls; he told them there was not only an infinite value, but an infinite vertue too in the blood of Chriſt, and that they muſt feel the effects and influences thereof, upon their hearts in
+<pb n="7" facs="tcp:174913:4"/> this world, if ever they Expected the be<g ref="char:EOLhyphen"/>nefit of it, in the next, <hi>&amp;c.</hi> concluding his diſcourſe with diverſe other neceſſary di<g ref="char:EOLhyphen"/>rections and pathetical Exhortations.</q>
+            </p>
+            <p>When the Perſon for Murder was carried forth to ſuffer, he declared himſelf freely willing to Dye, as having juſtly deſerved it; and would often aggravate his own Wicked<g ref="char:EOLhyphen"/>neſs and Gods Mercy, in that he ſuddenly had deſtroyed an Innocent perſon, that offer'd Kindneſs to him, without giving him any ſpace for preparation, or ſo much time as to ſay, <hi>Lord have mercy upon him;</hi> whereas he himſelf now was indulged ſeveral days to prepare for his Death. At the place of Exe<g ref="char:EOLhyphen"/>cution, with abundance of Tears, he beſought all people to take warning, and avoid that odious and moſt dangerous Sin of Drunken<g ref="char:EOLhyphen"/>neſs, which renders thoſe Men, or rather beaſts that practiſe it, fit and ready for all kinde of miſchief. How many Whoredomes, Adulte<g ref="char:EOLhyphen"/>ries, Rapes, and Murders have been hereby occaſioned! For Drunkenneſs is not only a Sin of the firſt rate in it ſelf, but a common Seminary, or Seed-plot of all other Sins.</p>
+            <p>There is a Relation of a well-educated and diſpoſed Young-man, how he was once tem<g ref="char:EOLhyphen"/>pted to three Sins, Murder, Whoredome and
+<pb n="8" facs="tcp:174913:5"/> Drunkenneſs, of which he might take his choice; who choſe the laſt, as being in his apprehenſion the leaſt heinou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. But behold! When the Wine had inflam'd him, having no longer any ſenſe of Pitty, or the obligations of Nature, he ſlew his own Father, and com<g ref="char:EOLhyphen"/>mitted Inceſt with his Siſter.</p>
+            <p>Let the ſad Example of this poor wretches deplorable and untimely end, that now juſtly ſuffered for a horrid Murder, committed when he had made himſelf inſenſible of what he did by Drunkenneſs, prevail with all to watch over themſelves, and avoid ſuch Ex<g ref="char:EOLhyphen"/>ceſs. For how knoweſt thou, O Reader! but if thou proceedeſt in that Swiniſh Sin, though masked under the flattering Title of Complaiſance to Company and Good-fel<g ref="char:EOLhyphen"/>lowſhip, God may give thee up, when thou thy ſelf haſt wilfully drown'd that reaſon which he gave thee for a guide, how knoweſt thou I ſay, but he may give thee up to commit as great a ſin as this poor Man now ſuffer'd for, and ſo come to be made an Example thy ſelf, that would'ſt take no warning by the example of others.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174913:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
